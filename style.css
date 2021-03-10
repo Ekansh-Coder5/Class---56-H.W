@@ -1,16 +1,21 @@
 body {
-    text-align:center;
-    background-color:antiquewhite;
+    text-align: center;
+    background-color: red;
 }
-div {
-    margin-top:15px;
-
-}image-section {
-    display:flex;
-    justify-content:center;
+#code {
+    background-color: aqua;
 }
-.section-style {
-    margin-right: 25px;
-    margin-left: 25px;
-    background-color: white;
-} 
+#S {
+    background-color: red;
+    height:400px;
+}
+#I:hover {
+    transform:scale(0.9);
+}
+#C {
+    height: 600px;
+    background-color: darkblue
+}
+#I {
+    height:200px;
+}
